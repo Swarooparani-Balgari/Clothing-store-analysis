@@ -44,4 +44,4 @@ The Dataset contains the following :
 - Dashboard.pbix - Power BI Dashboard
 - Screenshot.png - Screenshot of Dashboard
 
-[Dashboard](Screenshot.png)
+![Dashboard](Screenshot.png)
